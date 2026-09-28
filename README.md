@@ -34,7 +34,6 @@ final_priority_report.csv
 ## Technologies Used
 
 - Python
-- Pandas
 - CSV
 - Scikit-learn
 
