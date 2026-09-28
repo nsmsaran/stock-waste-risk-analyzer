@@ -1,0 +1,12 @@
+product_id,product_name,stock_quantity,days_of_stock_remaining,priority_score,reason
+P003,Basmati Rice 5kg,200,181.8,40,slow-moving
+P004,Greek Yogurt 500g,150,150.0,40,slow-moving
+P007,Sunflower Oil 1L,90,81.8,40,slow-moving
+P008,Frozen Peas 500g,110,44.0,40,slow-moving
+P011,Instant Noodles,400,210.5,40,slow-moving
+P014,Canned Beans,180,180.0,40,slow-moving
+P001,Whole Wheat Bread,120,7.8,25,"demand rising, stock may run out"
+P002,Organic Milk 1L,80,6.2,25,"demand rising, stock may run out"
+P009,Chocolate Bar,250,10.7,25,"demand rising, stock may run out"
+P010,Eggs (12 pack),140,10.0,25,"demand rising, stock may run out"
+P015,Orange Juice 1L,95,10.9,25,"demand rising, stock may run out"

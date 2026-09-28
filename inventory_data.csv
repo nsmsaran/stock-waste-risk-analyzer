@@ -1,0 +1,16 @@
+product_id,product_name,category,stock_quantity,units_sold_last_30_days,expiry_date,cost_per_unit
+P001,Whole Wheat Bread,Bakery,120,300,2026-09-12,25
+P002,Organic Milk 1L,Dairy,80,250,2026-09-10,45
+P003,Basmati Rice 5kg,Grains,200,60,2027-06-01,350
+P004,Greek Yogurt 500g,Dairy,150,90,2026-09-15,60
+P005,Potato Chips,Snacks,300,400,2027-01-20,20
+P006,Fresh Tomatoes,Produce,60,180,2026-09-09,30
+P007,Sunflower Oil 1L,Grains,90,40,2027-03-15,150
+P008,Frozen Peas 500g,Frozen,110,70,2026-12-01,35
+P009,Chocolate Bar,Snacks,250,500,2027-02-10,15
+P010,Eggs (12 pack),Dairy,140,320,2026-09-11,60
+P011,Instant Noodles,Grains,400,150,2027-05-05,10
+P012,Fresh Spinach,Produce,40,60,2026-09-09,20
+P013,Butter 500g,Dairy,70,50,2026-11-20,80
+P014,Canned Beans,Grains,180,30,2027-08-01,25
+P015,Orange Juice 1L,Beverages,95,200,2026-09-14,55
